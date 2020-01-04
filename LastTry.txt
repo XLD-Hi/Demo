@@ -1,0 +1,10 @@
+git status 查看状态
+git commit add 文件名
+git status 查看状态
+git log 查看日志
+git commit -m "文件名 commit"
+git status 查看状态
+git push
+
+
+一切都可根据git status的提示来进行操作
